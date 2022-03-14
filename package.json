@@ -1,0 +1,20 @@
+{
+  "name": "kubernetes-traininng",
+  "version": "1.0.0",
+  "description": "I'm using this repo as a \"hello world\" for my kubernetes training",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node hello.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/williamalvarez92/kubernetes-traininng.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/williamalvarez92/kubernetes-traininng/issues"
+  },
+  "homepage": "https://github.com/williamalvarez92/kubernetes-traininng#readme"
+}

@@ -1,1 +1,5 @@
-<h1>HELLO YOU!</h1>
+
+function hi() {
+console.log("HELLO THERE!")}
+
+hi()
